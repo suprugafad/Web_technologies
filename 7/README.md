@@ -4,3 +4,5 @@
 
 
 ![alt text](screenshots/7.jpg)
+![alt text](screenshots/7_2.jpg)
+![alt text](screenshots/7_3.jpg)
